@@ -18,10 +18,10 @@ h1 {
 
 .main-content{
   background-color: rbg(21, 21, 17);
-  background-image: url("https://cdn.pixabay.com/photo/2013/10/24/00/28/jean-200042_1280.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2016/03/27/18/47/shoes-1283560_960_720.jpg");
   width: 100%;
   height: 500px;
-  background-position: 75% 75%;
+  background-position: 50% 50%;
   background-size: cover;
   position: relative;
   z-index: 0;
